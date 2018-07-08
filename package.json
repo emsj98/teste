@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/emsj98/teste#readme",
   "dependencies": {
-    "boostrap": "^2.0.0",
     "bootstrap": "^4.1.1"
   }
 }
