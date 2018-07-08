@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/emsj98/teste/issues"
   },
-  "homepage": "https://github.com/emsj98/teste#readme"
+  "homepage": "https://github.com/emsj98/teste#readme",
+  "dependencies": {
+    "boostrap": "^2.0.0"
+  }
 }
